@@ -10,9 +10,13 @@ Avoid: Hit by enemies or fall onto ground
 Evaluation: Game time and number of death times
 
 Operation:
-Key                    Operation
+
 Enter						       Start / Restart the game
+
 Mouse Left Key				 Rise
+
 A / D							     Move Left / Right
+
 Space						       Attack
+
 Q / E							     Switch to the Last / Next Sword
