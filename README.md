@@ -11,12 +11,12 @@ Evaluation: Game time and number of death times
 
 Operation:
 
-Enter						       Start / Restart the game
+Enter	:					       Start / Restart the game
 
-Mouse Left Key				 Rise
+Mouse Left Key		:		 Rise
 
-A / D							     Move Left / Right
+A / D					:		     Move Left / Right
 
-Space						       Attack
+Space				:		       Attack
 
-Q / E							     Switch to the Last / Next Sword
+Q / E				:			     Switch to the Last / Next Sword
